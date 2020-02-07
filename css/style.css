@@ -1,0 +1,43 @@
+@media screen and (min-width:200px){
+    body{
+        background-color: bisque;
+        font-size: large;
+    }
+}
+#links{
+    border: 5px solid rgb(184, 184, 120);
+    background-color: burlywood;
+}
+#links a{
+    padding-right: 200px;
+    text-align: center; 
+    padding-left: 150px;
+    color: coral;
+}
+#logo{
+    color: darkcyan;
+    font-size: 20px;
+    text-align: center;
+}
+.profile img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 80px;
+}
+.profile p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px ;
+}
+#Projects p{
+    text-align: center;
+    font-size: 20px;
+}
+#Projects li{
+    text-align: center;
+    padding-bottom: 50px;
+    list-style-type: none;
+
+
+}
