@@ -12,11 +12,11 @@
     padding-right: 200px;
     text-align: center; 
     padding-left: 150px;
-    color: coral;
+    color: beige;
 }
 #logo{
     color: darkcyan;
-    font-size: 20px;
+    font-size: 40px;
     text-align: center;
 }
 .profile img{
@@ -38,7 +38,7 @@
     text-align: center;
     padding-bottom: 50px;
     list-style-type: none;
-    color: coral;
+    color: rgb(109, 66, 51);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #Projects li{
